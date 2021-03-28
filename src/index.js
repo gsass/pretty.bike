@@ -6,14 +6,17 @@ const app = Vue.createApp({
   },
   computed: {
     rendered() {
-      return marked(this.input, { sanitize: true });
+      return marked(this.input, { sanitizer:  DOMPurify.sanitize });
     }
   },
-  /** methods: {
-    update: _.debounce(function(e) {
-      this.input = e.target.value;
-    }, 300)
-  } */
+  template: `
+    <div v-html="rendered"></div>
+  `
 })
 
+const store = Vuex.createStore({
+  state: {}
+});
+
+app.use(store);
 app.mount("#app");
