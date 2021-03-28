@@ -15,7 +15,20 @@ const app = Vue.createApp({
 })
 
 const store = Vuex.createStore({
-  state: {}
+  state: {
+    path: '#'
+  },
+  mutations: {
+    setPath (state, newPath) {
+      state.path = newPath
+    }
+  },
+  actions: {
+    navigate ({ commit }, newPath) {
+      window.location.hash = newPath;
+      commit('setPath', newPath);
+    }
+  }
 });
 
 app.use(store);
