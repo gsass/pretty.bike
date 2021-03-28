@@ -1,13 +1,16 @@
 <html>
 	<head>
+        <!-- Import framework: Vue and Vuex -->
 		<script src="https://unpkg.com/vue@3.0.0"></script>
 		<script src="https://unpkg.com/vuex@2.0.0"></script>
+        <!-- Import `marked` to render markdown content -->
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 	</head>
 
 	<body>
 		<div id="app">
-	        {{ message }}
-	    </div>
+            <div v-html="rendered"></div>
+        </div>
 
 	    <script src="./src/index.js"></script>
 	</body>
