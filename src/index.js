@@ -8,11 +8,13 @@ const navMenu = {
     currentHash: String,
   },
   template: `
-    <ul>
-      <li v-for="link in links" :key="link.hash">
-        <a :href="link.hash">{{ link.label }}</a>
-      </li>
-    </ul>
+    <div class="pure-menu">
+      <ul class="pure-menu-list">
+        <li v-for="link in links" :key="link.hash" class="pure-menu-item">
+          <a :href="link.hash" class="pure-menu-link">{{ link.label }}</a>
+        </li>
+      </ul>
+    </div>
   `
 }
 
@@ -58,8 +60,14 @@ const app = Vue.createApp({
     }
   },
   template: `
-    <nav-menu :links="links"></nav-menu>
-    <div v-html="rendered"></div>
+    <div class="pure-g">
+      <div id="menu" class="pure-u-1-5">
+        <nav-menu :links="links"></nav-menu>
+      </div>
+      <div id="content" class="pure-u-4-5">
+        <div v-html="rendered"></div>
+      </div>
+    </div>
   `
 })
 
