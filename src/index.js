@@ -1,17 +1,32 @@
 /*
+* Routes for this app are all hash-based and all here
+* All routes must have attributes `name` and `hash`
+* Routes may also have a `label` which allows them to appear in the nav
+*/
+const routes = [
+  {name: 'home', hash: '#'},
+  {name: 'mechanicals', hash: '#mechanicals', label: 'Mechanical Checklist'},
+  {name: 'packing-list', hash: '#packing', label: 'Packing List'}
+];
+
+/*
 * Define App components
 * TODO move this to a module when it hits 80+ ll.
 */
 const navMenu = {
-  props: {
-    routes: Array,
-    currentHash: String,
+  props: { routes: Array },
+  computed: {
+    links: function () {
+      return this.routes.filter(item => !!item.label)
+    }
   },
   template: `
     <div class="pure-menu">
       <ul class="pure-menu-list">
-        <li v-for="route in routes" :key="route.hash" class="pure-menu-item">
-          <a :href="route.hash" class="pure-menu-link">{{ route.label }}</a>
+        <li v-for="link in links" :key="link.hash" class="pure-menu-item">
+          <a :href="link.hash" class="pure-menu-link">
+            {{ link.label }}
+          </a>
         </li>
       </ul>
     </div>
@@ -37,14 +52,10 @@ const store = Vuex.createStore({
     }
   },
   mutations: {
-    setPath (state, newPath) {
-      state.path = newPath
-    }
+    setPath (state, newPath) { state.path = newPath }
   },
   actions: {
-    navigate ({ commit }, newPath) {
-      commit('setPath', newPath);
-    }
+    navigate ({ commit }, newPath) { commit('setPath', newPath) }
   }
 });
 
@@ -55,8 +66,6 @@ store.dispatch('navigate', window.location.hash || '#')
 * Set up the main app, and mount it in the container.
 */
 
-const routes = [ // Rotes for this app are all hash-based and all here
-];
 const notFoundMessage = '## 404! Sad Times, Dogg.';
 
 const app = Vue.createApp({
