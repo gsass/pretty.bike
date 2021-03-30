@@ -1,12 +1,19 @@
 /*
 * Routes for this app are all hash-based and all here
 * All routes must have attributes `name` and `hash`
-* Routes may also have a `label` which allows them to appear in the nav
+* Routes may also have a `label` which allows them to appear in the nav,
+* and a `contentPath` to load associated markdown content for the page
 */
 const routes = [
   {name: 'home', hash: '#'},
-  {name: 'mechanicals', hash: '#mechanicals', label: 'Mechanical Checklist'},
-  {name: 'packing-list', hash: '#packing', label: 'Packing List'}
+  { name: 'mechanicals',
+    hash: '#mechanicals',
+    label: 'Mechanical Checklist',
+    contentPath: 'mechanical_checklist.md'},
+  { name: 'packing-list',
+    hash: '#packing',
+    label: 'Packing List',
+    contentPath: 'packing_list.md'}
 ];
 
 /*
@@ -16,15 +23,16 @@ const routes = [
 const navMenu = {
   props: { routes: Array },
   computed: {
-    links: function () {
+    links() {
       return this.routes.filter(item => !!item.label)
     }
   },
+  methods: Vuex.mapActions([ 'navigate' ]),
   template: `
     <div class="pure-menu">
       <ul class="pure-menu-list">
         <li v-for="link in links" :key="link.hash" class="pure-menu-item">
-          <a :href="link.hash" class="pure-menu-link">
+          <a :href="link.hash" @click="navigate(link.hash)" class="pure-menu-link">
             {{ link.label }}
           </a>
         </li>
@@ -42,20 +50,32 @@ let contentCache = [
   // Supports elements of form {hash: String, content: String},
   {hash: '#', content: '# Hey.'},
 ];
+const notFoundMessage = '## 404! Sad Times, Dogg.';
 
 const store = Vuex.createStore({
   state: { path: '#' },
   getters: {
-    content: state => {
+    content(state) {
       const cached = contentCache.find(item => item.hash === state.path) || {};
-      return cached.content;
+      return cached.content || notFoundMessage;
     }
   },
   mutations: {
-    setPath (state, newPath) { state.path = newPath }
+    setPath(state, newPath) { state.path = newPath }
   },
   actions: {
-    navigate ({ commit }, newPath) { commit('setPath', newPath) }
+    navigate({ commit }, newPath) {
+      // Fetch and cache content if it isn't there...
+      const route = routes.find(route => route.hash === newPath);
+      const contentIsCached = contentCache.some(cached => cached.hash === newPath)
+      if (route && route.contentPath && !contentIsCached) {
+        fetch(`./content/${route.contentPath}`)
+          .then(r => r.text())
+          .then(content => contentCache.push({hash: newPath, content }))
+      }
+      // ...then update app store state
+      commit('setPath', newPath);
+    }
   }
 });
 
@@ -65,9 +85,6 @@ store.dispatch('navigate', window.location.hash || '#')
 /*
 * Set up the main app, and mount it in the container.
 */
-
-const notFoundMessage = '## 404! Sad Times, Dogg.';
-
 const app = Vue.createApp({
   data() { return {
     routes,
@@ -76,10 +93,7 @@ const app = Vue.createApp({
   }},
   computed: {
     rendered() {
-      return marked(
-        this.content() || notFoundMessage,
-        { sanitizer:  DOMPurify.sanitize }
-      );
+      return marked(this.content(), { sanitizer:  DOMPurify.sanitize });
     }
   },
   template: `
