@@ -6,7 +6,7 @@ const renderer = {
     if (body) body = `<tbody>${body}</tbody>`;
 
     return `
-      <table class="pure-table pure-table-bordered">
+      <table class="pure-table pure-table-striped">
         <thead>${header}</thead>
         ${body}
       </table>`;
@@ -23,7 +23,14 @@ const renderer = {
     }
     out += '/>';
     return out;
+  },
+
+  tablecell(content, {header}) {
+    const tag = header ? 'th' : 'td';
+    const align = header ? 'center' : 'left';
+    return `<${tag} align="${align}">${content}</${tag}>\n`;
   }
+
 }
 marked.use({ renderer })
 
