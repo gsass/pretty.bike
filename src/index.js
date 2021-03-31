@@ -67,14 +67,15 @@ const store = Vuex.createStore({
     navigate({ commit }, newPath) {
       // Fetch and cache content if it isn't there...
       const route = routes.find(route => route.hash === newPath);
+      let getContent = new Promise(() => {});
       const contentIsCached = contentCache.some(cached => cached.hash === newPath)
       if (route && route.contentPath && !contentIsCached) {
-        fetch(`./content/${route.contentPath}`)
+        getContent = fetch(`./content/${route.contentPath}`)
           .then(r => r.text())
           .then(content => contentCache.push({hash: newPath, content }))
       }
       // ...then update app store state
-      commit('setPath', newPath);
+      getContent.then(() => commit('setPath', newPath));
     }
   }
 });
