@@ -22,5 +22,4 @@ const navMenu = {
   `
 }
 
-const components = { navMenu };
-export default components;
+export default { navMenu };
