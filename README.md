@@ -7,6 +7,9 @@ It's the PJ Ride Webpage! A repository for the ageless knowledge which we've acq
 - [routes.js](./src/routes.js) is a vanilla JS module containing all the routes for the app. You will need to edit this to publish content.
 - [The `content` directory](./content) is where markdown content goes. Note that while HTML is _valid_ markdown, the input sanitizer may scrub elements it interprets as security risks.
 
+## Developing for the website
+Since the JS running the page uses cool features like ES6 modules and `fetch`, most browsers will make the very reasonable decision to block any and all `file://` URLS. Luckily there exist [browser extensions](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) which let you run a basic server, without even using the gratis Python available via every OSX (and most every Windows) CLI.
+
 ## Adding a page
 Because this site is hosted entirely on GitHub pages, and because I don't feel like installing yet another dependency, I'm relying on hash-only routing. This is a totally clunky way to do it, but it reduces the routing and caching code to like 40 lines, so roll with it. MVP style, papí.
 
