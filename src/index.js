@@ -1,62 +1,6 @@
-/*
-* Routes for this app are all hash-based and all here
-* All routes must have attributes `name` and `hash`
-* Routes may also have a `label` which allows them to appear in the nav,
-* and a `contentPath` to load associated markdown content for the page
-*/
-const routes = [
-  {name: 'home', hash: '#'},
-  { name: 'mechanicals',
-    hash: '#mechanicals',
-    label: 'Mechanical Checklist',
-    contentPath: 'mechanical_checklist.md'},
-  { name: 'packing-list',
-    hash: '#packing',
-    label: 'Packing List',
-    contentPath: 'packing_list.md'}
-];
-
-/*
-* Define custom renderer to apply Pure classes as needed
-* TODO modularize
-*/
-const renderer = {
-  table(header, body) {
-    if (body) body = `<tbody>${body}</tbody>`;
-
-    return `
-      <table class="pure-table pure-table-bordered">
-        <thead>${header}</thead>
-        ${body}
-      </table>`;
-  }
-}
-marked.use({ renderer })
-
-/*
-* Define App components
-* TODO move this to a module when it hits 80+ ll.
-*/
-const navMenu = {
-  props: { routes: Array },
-  computed: {
-    links() {
-      return this.routes.filter(item => !!item.label)
-    }
-  },
-  methods: Vuex.mapActions([ 'navigate' ]),
-  template: `
-    <div class="pure-menu nav-menu">
-      <ul class="pure-menu-list">
-        <li v-for="link in links" :key="link.hash" class="pure-menu-item">
-          <a :href="link.hash" @click="navigate(link.hash)" class="pure-menu-link">
-            {{ link.label }}
-          </a>
-        </li>
-      </ul>
-    </div>
-  `
-}
+import routes from './routes.js';
+import renderMarkdown from './renderer.js';
+import components from './components.js';
 
 /*
 * Set up the state manager, a `vuex` store
@@ -104,6 +48,7 @@ store.dispatch('navigate', window.location.hash || '#')
 * Set up the main app, and mount it in the container.
 */
 const app = Vue.createApp({
+  components,
   data() { return {
     routes,
     ...Vuex.mapState(['path',]),
@@ -111,7 +56,7 @@ const app = Vue.createApp({
   }},
   computed: {
     rendered() {
-      return marked(this.content(), { sanitizer:  DOMPurify.sanitize });
+      return renderMarkdown(this.content());
     }
   },
   template: `
@@ -125,8 +70,6 @@ const app = Vue.createApp({
     </div>
   `
 })
-
-app.component('navMenu', navMenu)
 
 app.use(store);
 app.mount("#app");
