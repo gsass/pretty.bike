@@ -10,6 +10,19 @@ const renderer = {
         <thead>${header}</thead>
         ${body}
       </table>`;
+  },
+
+  image(href, title, text) {
+    if (href === null) {
+      return text;
+    }
+
+    let out = `<img class='pure-img' src="${href}" alt="${text}"`;
+    if (title) {
+      out += ` title="${title}"`;
+    }
+    out += '/>';
+    return out;
   }
 }
 marked.use({ renderer })

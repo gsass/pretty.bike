@@ -8,13 +8,12 @@ import components from './components.js';
 
 // First, add a cache for fetched markdown content
 let contentCache = [
-  // Supports elements of form {hash: String, content: String},
-  {hash: '#', content: '# Hey.'},
+  // Stores elements of form {hash: String, content: String}
 ];
 const notFoundMessage = '## 404! Sad Times, Dogg.';
 
 const store = Vuex.createStore({
-  state: { path: '#' },
+  state: { path: null },
   getters: {
     content(state) {
       const cached = contentCache.find(item => item.hash === state.path) || {};
@@ -30,19 +29,18 @@ const store = Vuex.createStore({
       const contentIsCached = contentCache.some(cached => cached.hash === newPath)
       // Fetch and cache content if it isn't there.
       if (route && route.contentPath && !contentIsCached) {
-        fetch(`./content/${route.contentPath}`)
+        return fetch(`./content/${route.contentPath}`)
           .then(r => r.text())
           .then(content => contentCache.push({hash: newPath, content }))
           .then(() => commit('setPath', newPath));
-      } else {
-        commit('setPath', newPath);
       }
+      return new Promise(() => commit('setPath', newPath));
     }
   }
 });
 
 // Navigate to the desired path before setting up the main app
-store.dispatch('navigate', window.location.hash || '#')
+await store.dispatch('navigate', window.location.hash || '#')
 
 /*
 * Set up the main app, and mount it in the container.

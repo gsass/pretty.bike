@@ -5,7 +5,10 @@
 * and a `contentPath` to load associated markdown content for the page
 */
 const routes = [
-  {name: 'home', hash: '#'},
+  { name: 'home',
+    hash: '#',
+    label: '🚲🦞',
+    contentPath: 'home.md'},
   { name: 'mechanicals',
     hash: '#mechanicals',
     label: 'Mechanical Checklist',
