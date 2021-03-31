@@ -29,7 +29,7 @@ const navMenu = {
   },
   methods: Vuex.mapActions([ 'navigate' ]),
   template: `
-    <div class="pure-menu">
+    <div class="pure-menu nav-menu">
       <ul class="pure-menu-list">
         <li v-for="link in links" :key="link.hash" class="pure-menu-item">
           <a :href="link.hash" @click="navigate(link.hash)" class="pure-menu-link">
