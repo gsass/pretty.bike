@@ -1,4 +1,6 @@
-# Hey.
+# Packing Heat In the Seat
+_(what does that even mean. why would you even say that.)_
+
 Here is a packing list, and also some thoughts on hauling the things you've packed.
 
 This advice is based on my experience as a somewhat casual cyclist who likes things such as "comfort" and "not having everyone see my jiggle jello", and your experience/needs might be different. If you're like, really hardcore, or you've taken up strict minimalism, or your feet get really cold, or something else, absolutely do amend this plan to suit your needs. I would advise over-packing and paring down if this is your first time riding; it sucks to ride a heavy bike but it sucks way more to be frigid/damp, sunburnt/fixing a flat in full sun, or any other hell combo that lack of prep can lead to.
