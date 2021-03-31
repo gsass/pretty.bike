@@ -22,14 +22,13 @@ const routes = [
 */
 const renderer = {
   table(header, body) {
-    if (body) body = '<tbody>' + body + '</tbody>';
+    if (body) body = `<tbody>${body}</tbody>`;
 
-    return '<table class="pure-table pure-table-bordered">\n'
-      + '<thead>\n'
-      + header
-      + '</thead>\n'
-      + body
-      + '</table>\n';
+    return `
+      <table class="pure-table pure-table-bordered">
+        <thead>${header}</thead>
+        ${body}
+      </table>`;
   }
 }
 marked.use({ renderer })
