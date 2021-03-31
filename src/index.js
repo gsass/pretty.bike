@@ -17,6 +17,24 @@ const routes = [
 ];
 
 /*
+* Define custom renderer to apply Pure classes as needed
+* TODO modularize
+*/
+const renderer = {
+  table(header, body) {
+    if (body) body = '<tbody>' + body + '</tbody>';
+
+    return '<table class="pure-table pure-table-bordered">\n'
+      + '<thead>\n'
+      + header
+      + '</thead>\n'
+      + body
+      + '</table>\n';
+  }
+}
+marked.use({ renderer })
+
+/*
 * Define App components
 * TODO move this to a module when it hits 80+ ll.
 */
