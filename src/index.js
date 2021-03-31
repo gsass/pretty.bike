@@ -64,8 +64,8 @@ const app = Vue.createApp({
       <div id="menu" class="pure-u-1-5">
         <nav-menu :routes="routes"></nav-menu>
       </div>
-      <div id="content" class="pure-u-4-5">
-        <div v-html="rendered"></div>
+      <div id="contentWrapper" class="pure-u-4-5">
+        <div class="content" v-html="rendered"></div>
       </div>
     </div>
   `

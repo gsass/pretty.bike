@@ -3,3 +3,7 @@
     top: 5%;
     border: dotted 1px #2faded;
 }
+
+.content {
+    padding:20px;
+}
