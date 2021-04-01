@@ -9,14 +9,18 @@ const routes = [
     hash: '#',
     label: '🚲🦞',
     contentPath: 'home.md'},
+  { name: 'ride_route',
+    hash: '#route',
+    label: 'Maps + Cue Sheet',
+    contentPath: 'ride_route.md'},
+  { name: 'packing-list',
+    hash: '#packing',
+    label: 'Packing List',
+    contentPath: 'packing_list.md'},
   { name: 'mechanicals',
     hash: '#mechanicals',
     label: 'Mechanical Checklist',
     contentPath: 'mechanical_checklist.md'},
-  { name: 'packing-list',
-    hash: '#packing',
-    label: 'Packing List',
-    contentPath: 'packing_list.md'}
 ];
 
 export default routes;
