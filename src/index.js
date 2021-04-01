@@ -39,9 +39,6 @@ const store = Vuex.createStore({
   }
 });
 
-// Navigate to the desired path before setting up the main app
-await store.dispatch('navigate', window.location.hash || '#')
-
 /*
 * Set up the main app, and mount it in the container.
 */
@@ -69,5 +66,10 @@ const app = Vue.createApp({
   `
 })
 
+// Connect app to the state store
 app.use(store);
-app.mount("#app");
+
+// Navigate to the initial path, then render the app
+store
+  .dispatch('navigate', window.location.hash || '#')
+  .then(() => app.mount("#app"));
