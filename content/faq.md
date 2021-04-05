@@ -31,6 +31,7 @@ The things which every rider should do are:
 - Train up! Details in the Training Schedule.
 - Make sure your bike is ticking like clockwork. See the Mechanical Checklist and/or "Shakedown Ride" section of the Training Schedule.
 - Make sure you've got the gear you need to ride, camp, and enjoy your time on the cape! The Packing List is probably what you want.
+
 See you on the ride! _(or sooner, just let us know)_
 
 ### What kind of shoes should I wear? Do I need to go clipless?
