@@ -7,7 +7,7 @@
 const routes = [
   { name: 'home',
     hash: '#',
-    label: '🚲🦞',
+    label: '🚴‍♂️🦞🌈🏖🚴‍♀️',
     contentPath: 'home.md'},
   { name: 'faq',
     hash: '#faq',
@@ -25,6 +25,10 @@ const routes = [
     hash: '#mechanicals',
     label: 'Mechanical Checklist',
     contentPath: 'mechanical_checklist.md'},
+  {name: 'training-schedule',
+    hash: '#training',
+    label: 'Training To Ride',
+    contentPath: 'training_schedule.md'}
 ];
 
 export default routes;
