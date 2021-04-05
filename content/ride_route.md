@@ -41,7 +41,7 @@ If you're an ultralight packer and don't need cute lil diagrams for how to handl
 
 I get that! If you're not used to group rides, it's probably a bother. I'm used to group rides and it's still a bother for me tbqh. The good news is you're going to be riding with people who know how to use this, and usually groups form up around a de facto navigator.
 
-On the topic of maps, though, let me say two things:
+If you want a backup/extra map, though:
 1. Your phone still works on the cape (though trust me, you want to set it to Do Not Disturb), and your phone GPS does too. If you're on a flip phone or something, that's super badass, and you can probably use that as an icebreaker when you ask for directions.
 2. I really super duper recommend [Rubel BikeMaps](https://www.bikemaps.com/) and especially their [Cape Cod map](https://www.evmaplink.com/Cape_Cod_The_Islands_and_North_Shore_Road_and_Bi_p/2062407m.htm), which is now waterproof! Sure, your phone could _probably_ show you where the nearest ice cream store or nearby trail (essential for safety reasons) is, but like, editorial content is so much better.
 

@@ -32,12 +32,12 @@ I (George) prefer rocking shell shorts over padding liners, because I like looki
 - 1 pair macrame gloves (or lesser, non-macrame gloves)
 - 1 bike cap or ball cap - these are so clutch once the going gets sweaty
 - 3 pairs running socks or other socks which you know don't chafe
-- 1 pair shoes you can bike in - see appendix
+- 1 pair shoes you can bike in - see the FAQ if you're not sure
 - 1 pair swim shorts/swimsuit
 - 1 pair heaux-ass shorts which make people want to buy you a DRANK (this might be a "me" thing)
 - 1 pair sunglasses + case
 - 2 pairs underwear
-- 1 pair shoes for camp/if your bike shoes get soaked (see appendix)
+- 1 pair shoes for camp/if your bike shoes get soaked (again, see the FAQ if unsure)
 - 2 shirts nice enough to get into a restaurant with ("t-shirt without holes" or better)
 - 1 packable hooded rain jacket (or poncho, if you love that greenhouse STANK feeling)
 - 1 compression sack/plastic bag for dirty laundry
@@ -63,7 +63,7 @@ I (George) prefer rocking shell shorts over padding liners, because I like looki
 - 1 camp mug
 - 1 cheapish gas stove + gas can, if you want tea/pourover in the morning
 - Tea/Coffee, if you want it
-- 2 full-size bidons or other hydration solution (see appendix)
+- 2 full-size bidons or other hydration solution (see FAQ if you want ✨opinions✨)
 - More emergency snacks
 
 **Tools**
@@ -83,7 +83,7 @@ Individual riders can carry these things too (especially if they own them!) but 
 ## Hauling it
 Thankfully, people have needed to carry crap on their bicycles since forever, so there’s plenty options for doing it. Here are the ones I’ve seen work.
 
-*...actually before we go there, let me stop you and say **absolutely do not try to do this ride in a backpack**. Hydration sack mini-backpacks are fine but unless you want to well and truly enter the next level of chafing, blistering, and body acne, stay the absolute whoo-hah away from that Jansport you're eyeing. I will have no sympathy if you try to backpack this ride. None. Do not do this. Anyway,*
+*...actually before we go there, let me stop you and say **absolutely do not try to do this ride in a backpack**. Hydration sack mini-backpacks are fine, but unless you want to well and truly enter the next level of chafing, blistering, and body acne, stay the absolute whoo-hah away from that Jansport you're eyeing (unless you're attaching it to your rack/bike basket somehow). I will have no sympathy if you try to backpack this ride. None. Do not do this. Anyway,*
 
 **Panniers!** For road rides on a bike that can easily fit regular-style racks on the back/front you really can’t beat some damn panniers. I like Axiom Stormfronts, Koki grocery panniers, and Ortliebs. Those all cost tall money, so I would also check with REI/Craigslist for deals. REI will apparently let you rent some gear; idk if panniers are included. If you want to be cute, you can go for four matching Swift panniers, and we will all Insta your bike instead of ours and call it a day.
 
@@ -95,20 +95,3 @@ I’ve personally used a Jandd “ascent bag” (basically a compression sack wi
 
 ### Should I share, borrow, or buy?
 You’re going to be riding with people, through relatively populated places. While there’s some things everyone needs for themselves (e.g. spare tube, junk cream), there's other stuff which can be shared (e.g. don't bring two tents if you're a couple, but you knew that), borrowed (I will have some packing gear, others might too, I may or may not set up a place where people can swap/request stuff), or bought en-route (e.g. macrame gloves and bike caps, on day 2, when you realize why I took the time to call out those two specific items above). This list of gear is probably pretty intimidating to a first-time rider, and I get that, and I'm sorry, and I'm here to help.
-
-## This is the Appendix
-So ya, lots of options, lots of ideas. Here's some more thoughts about other ideas people have.
-
-### On the topic of shoes
-You can do this ride in regular sneakers, and you can do it in clipless (which is just the worst misnomer jfc) bike shoes. The latter isn't required; I rode clipless for the first few rides and it reduced foot fatigue a bit but I'm not fast, and clipless didn't make me faster, so I swapped back to plain sneakers.
-
-What does work (for me):
-- Closed toe shoes. Two people have done this ride in Tevas/Chaco style sandals, so it's possible to do it in sandals, but consider if you will: not stepping into the skudge which you might see on the shoulder of a suburban road. I'd reccomend closed toes but you can do you if you're that kinda buckaroo.
-- Stiff soles. You can get a lot of the value of clipless shoes without installing clips (again, worst misnomer, jfc etc) in them. Stiffer soles let you put down more power without tiring out your arches or ankles. Fresh skate shoes and running shoes with full padding are popular and work well.
-- Flat soles. If you're not comfortable walking in clippity-clop road shoes, this is not the weekend to try them out. Fast people, you do you (y'all do y'all?).
-- Good socks and foot powder.
-
-### On the topic of hydration
-I once rode this ride with only one water bottle and I absolutely hated that, so I recommend having 2L of water capacity or more. I like:
-- Two big bike botles (in the packing list), or
-- A hydration bag. I like the fannypack format but the slim backpack format also works well.
