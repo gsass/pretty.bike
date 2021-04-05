@@ -27,9 +27,15 @@ It takes us from Longwood (in Boston), through several very scenic Massachussets
 - Down, and I also shit you not, a country road with oyster shells for a shoulder
 - Into Provincetown! You made it!
 
-## That sounds cool but you didn't answer my actual question.
+If you're wondering "how far is the ride?, or "are there hills?," peek at our GPS tracks for last year - [day one](https://ridewithgps.com/routes/27740808/) and [day 2](https://ridewithgps.com/routes/21800202).
 
-Yeah, those were a lot of words, so let me put numbers to them. Here's our GPS paths for [day 1](https://ridewithgps.com/routes/27740808/) and [day 2](https://ridewithgps.com/routes/21800202), last year. Here's the short version of the [cue sheet](./maps/SinglePageCueSheet.pdf) for reference&mdash;we will be navigating off (an updated) one of these on the ride. New and improved 2021-spec full sheet coming soon!
+## That all sounds cool but you didn't answer my actual question.
+
+Yeah, those were a lot of words, but none of them help you do the ride, huh. During the ride, we're going to navigate off cue sheets (you can also use a GPS but cue sheets don't require batteries). I can't say enough good things about Amy's map planning, nor will I downplay what hard work it is - the cue sheets are super clear, disambiguate weird intersections, note important landmarks such as "the good ice cream shop" and "check out this lake; it's cool", and are just extremely well-done. Thanks Amy!
+
+**Here are the cue sheets for [day 1](./content/maps/Cue%20Sheet%20Day%201.pdf) and [day 2](./content/maps/Cue%20Sheet%20Day%202.pdf).**
+
+If you're an ultralight packer and don't need cute lil diagrams for how to handle the more "historic" intersections along the way, here's the [short version](./content/maps/SinglePageCueSheet.pdf).
 
 ## This cue sheet seems intimidating.
 
