@@ -44,23 +44,32 @@ const store = Vuex.createStore({
 */
 const app = Vue.createApp({
   components,
-  data() { return {
-    routes,
-    ...Vuex.mapState(['path',]),
-    ...Vuex.mapGetters(['content'])
-  }},
+  data() {
+    return { routes, ...Vuex.mapState(['path']), ...Vuex.mapGetters(['content'])};
+  },
   computed: {
     rendered() {
       return renderMarkdown(this.content());
     }
   },
+  methods: {
+    ...Vuex.mapActions([ 'navigate' ]),
+    listenToRenderedLinks() {
+      this.$refs.content.querySelectorAll("a[href]").forEach((link) => {
+        const url = new URL(link.href);
+        if (url.hostname === window.location.hostname) { link.onclick = () => this.navigate(url.hash) }
+      }, this);
+    }
+  },
+  mounted() { this.$nextTick(() => this.listenToRenderedLinks()) },
+  updated() { this.$nextTick(() => this.listenToRenderedLinks()) },
   template: `
     <div class="pure-g">
       <div id="menu" class="pure-u-1-5">
         <nav-menu :routes="routes"></nav-menu>
       </div>
       <div id="contentWrapper" class="pure-u-4-5">
-        <div class="content" v-html="rendered"></div>
+        <div class="content" ref="content" v-html="rendered"></div>
       </div>
     </div>
   `

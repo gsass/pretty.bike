@@ -2,4 +2,4 @@
 
 # Hey.
 
-Welcome to the Pretty Ride. Chances are if you're here (at least now), you know what this is. If ya don't, peek ↖ that-a-way for the FAQ!
+Welcome to the Pretty Ride. Chances are if you're here (at least now), you know what this is. If ya don't, that's what the [FAQ](#faq) is for!
