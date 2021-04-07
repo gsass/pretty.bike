@@ -1,5 +1,6 @@
-# Packing Heat In the Seat
-_(what does that even mean. why would you even say that.)_
+# Stuff, and How To Huff
+_("Gear, and How To Get It There" makes more sense but that slant rhyme...ugh)_
+![Artist's depiction of a cyclist in a sun hat riding a touring bicycle heavily laden with unconventional cargo](../img/packing.png)
 
 Here is a packing list, and also some thoughts on hauling the things you've packed.
 
