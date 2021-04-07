@@ -25,16 +25,17 @@ const store = Vuex.createStore({
   },
   actions: {
     navigate({ commit }, newPath) {
-      const route = routes.find(route => route.hash === newPath);
-      const contentIsCached = contentCache.some(cached => cached.hash === newPath)
+      const pageHash = newPath.split('-')[0]; // To allow kebab links e.g. #maps-downloads
+      const route = routes.find(route => route.hash === pageHash);
+      const contentIsCached = contentCache.some(cached => cached.hash === pageHash)
       // Fetch and cache content if it isn't there.
       if (route && route.contentPath && !contentIsCached) {
         return fetch(`./content/${route.contentPath}`)
           .then(r => r.text())
-          .then(content => contentCache.push({hash: newPath, content }))
-          .then(() => commit('setPath', newPath));
+          .then(content => contentCache.push({hash: pageHash, content }))
+          .then(() => commit('setPath', pageHash));
       }
-      return new Promise(() => commit('setPath', newPath));
+      return new Promise(() => commit('setPath', pageHash));
     }
   }
 });

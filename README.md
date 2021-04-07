@@ -19,6 +19,4 @@ To add a new page:
 - Add a new route to `routes.js`
 
 ## Wishlist/TODOs
-- [ ] Styles that are better than "text on white page"
-- [ ] Visual assets/an `img` directory
-- [ ] Support for page subsection anchors via `#kebab-hashes`
+- [ ] Responsive styling
