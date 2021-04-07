@@ -7,3 +7,11 @@
 .content {
     padding:20px;
 }
+
+.content .pure-img {
+    margin: 0 auto;
+    /* Making images not push text entirely out of viewport
+       This is not responsive
+       TODO make it responsive */
+    max-height: 30em;
+}
