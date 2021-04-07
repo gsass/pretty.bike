@@ -1,3 +1,5 @@
+import renderMarkdown from './renderer.js';
+
 /*
 * Define App components
 */
@@ -20,6 +22,28 @@ const navMenu = {
       </ul>
     </div>
   `
-}
+};
 
-export default { navMenu };
+const renderedMarkdown = {
+  props: { content: Function },
+  computed: {
+    rendered() {
+      return renderMarkdown(this.content());
+    }
+  },
+  methods: {
+    ...Vuex.mapActions([ 'navigate' ]),
+    connectRenderedLinks() {
+      // Adds a `navigate` action to the onclick event of local links
+      this.$refs.content.querySelectorAll("a[href]").forEach((link) => {
+        const url = new URL(link.href);
+        if (url.hostname === window.location.hostname) { link.onclick = () => this.navigate(url.hash) }
+      }, this);
+    }
+  },
+  mounted() { this.$nextTick(() => this.connectRenderedLinks()) },
+  updated() { this.$nextTick(() => this.connectRenderedLinks()) },
+  template: `<div class="content" ref="content" v-html="rendered"></div>`
+};
+
+export default { navMenu, renderedMarkdown };
