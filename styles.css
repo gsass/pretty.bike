@@ -1,11 +1,10 @@
 .nav-menu {
-    position: fixed;
-    top: 5%;
-    border: dotted 1px #2faded;
+    margin-top: 5%;
+    border-bottom: dotted 1px #2faded;
 }
 
 .content {
-    padding:20px;
+    padding: 20px 10%;
 }
 
 .content .pure-img {
@@ -14,4 +13,15 @@
        This is not responsive
        TODO make it responsive */
     max-height: 30em;
+}
+
+@media screen and (min-width: 64em) {
+    .nav-menu {
+        margin-top: 20%;
+        border: dotted 1px #2faded;
+    }
+
+    .content {
+        padding: 20px;
+    }
 }

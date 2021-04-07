@@ -49,10 +49,10 @@ const app = Vue.createApp({
   },
   template: `
     <div class="pure-g">
-      <div id="menu" class="pure-u-1-5">
+      <div id="menu" class="pure-u-1 pure-u-lg-1-5">
         <nav-menu :routes="routes"></nav-menu>
       </div>
-      <div id="contentWrapper" class="pure-u-4-5">
+      <div id="contentWrapper" class="pure-u-1 pure-u-lg-4-5">
         <rendered-markdown :content="content"></rendered-markdown>
       </div>
     </div>

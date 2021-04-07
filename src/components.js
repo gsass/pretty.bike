@@ -12,14 +12,12 @@ const navMenu = {
   },
   methods: Vuex.mapActions([ 'navigate' ]),
   template: `
-    <div class="pure-menu nav-menu">
-      <ul class="pure-menu-list">
-        <li v-for="link, index in links" :key="link.hash" :class="index ? 'pure-menu-item' : 'pure-menu-heading'">
-          <a :href="link.hash" @click="navigate(link.hash)" class="pure-menu-link">
-            {{ link.label }}
-          </a>
-        </li>
-      </ul>
+    <div class="pure-g nav-menu">
+      <div v-for="link, index in links" :key="link.hash" :class="index ? 'pure-u-1-6 pure-u-lg-1' : 'pure-u-1'">
+        <a :href="link.hash" @click="navigate(link.hash)" class="pure-menu-link">
+          {{ link.label }}
+        </a>
+      </div>
     </div>
   `
 };
