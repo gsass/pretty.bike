@@ -34,9 +34,9 @@ const renderer = {
 }
 marked.use({ renderer })
 
-const renderMarkdown = (rawMarkdown) => marked(
+const renderMarkdown = (rawMarkdown, renderOptions = {}) => marked(
     rawMarkdown,
-    { sanitizer:  DOMPurify.sanitize }
+    { sanitizer:  DOMPurify.sanitize, ...renderOptions }
 );
 
 export default renderMarkdown;

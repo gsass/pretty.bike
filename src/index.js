@@ -44,16 +44,18 @@ const store = Vuex.createStore({
 */
 const app = Vue.createApp({
   components,
-  data() {
-    return { routes, ...Vuex.mapState(['path']), ...Vuex.mapGetters(['content'])};
-  },
+  data() { return {
+    routes,
+    ...Vuex.mapState(['path']),
+    ...Vuex.mapGetters(['content'])
+  }},
   template: `
     <div class="pure-g">
       <div id="menu" class="pure-u-1 pure-u-lg-1-5">
         <nav-menu :routes="routes"></nav-menu>
       </div>
       <div id="contentWrapper" class="pure-u-1 pure-u-lg-4-5">
-        <rendered-markdown :content="content"></rendered-markdown>
+        <rendered-markdown :path="path" :content="content"></rendered-markdown>
       </div>
     </div>
   `

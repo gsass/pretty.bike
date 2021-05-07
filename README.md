@@ -20,4 +20,3 @@ To add a new page:
 
 ## Wishlist/TODOs
 - [ ] Responsive styling fixes
-- [ ] Prefix markdown-rendered header IDs with page hash

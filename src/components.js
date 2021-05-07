@@ -23,10 +23,12 @@ const navMenu = {
 };
 
 const renderedMarkdown = {
-  props: { content: Function },
+  props: { content: Function, path: Function },
   computed: {
     rendered() {
-      return renderMarkdown(this.content());
+      return renderMarkdown(
+        this.content(),
+        { headerPrefix: this.path() ? `${this.path()}-` : '' });
     }
   },
   methods: {
