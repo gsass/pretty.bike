@@ -15,10 +15,6 @@
   max-height: 30em;
 }
 
-h1 + p {
-  background: #efefea;
-}
-
 hr {
   margin: 2em 0;
   border: 1px dotted #dabdad;
