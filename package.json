@@ -1,0 +1,16 @@
+{
+  "name": "pretty.bike",
+  "description": "Homepage for the Pretty Ride to Provincetown",
+  "version": "0.1",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:gsass/pretty.bike.git"
+    }
+  ],
+  "homepage": "https://pretty.bike",
+
+  "scripts": {
+    "dev": "node scripts/server.js"
+  }
+}
