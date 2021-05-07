@@ -21,7 +21,7 @@ About 150 miles, split 85/65 between two days. You can learn more on the "maps" 
 
 ### Cool. How do I sign up?
 
-Signups for 2021 are closed, so ya can't anymore. Reach out to George (or whoever linked you here) if you want an invite email for nexe year.
+Signups for 2021 are closed, so ya can't anymore. Reach out to George (or whoever linked you here) if you want an invite email for next year.
 
 ### I am signed up. What should I be doing now?
 
