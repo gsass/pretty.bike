@@ -20,3 +20,4 @@ To add a new page:
 
 ## Wishlist/TODOs
 - [ ] Responsive styling fixes
+- [ ] Minify images and use `srcset`s
