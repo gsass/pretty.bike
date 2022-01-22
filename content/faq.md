@@ -7,7 +7,7 @@ And, it seems like we're all looking to Jim to answer them. Seems like he's occu
 
 ### What is this?
 
-This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride is June 5<sup>th</sup> and 6<sup>th</sup>, 2021.
+This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are TBA but will likely be memorial day weekend or the first weekend of June.
 
 ### The Pretty Ride?
 
@@ -21,13 +21,13 @@ About 150 miles, split 85/65 between two days. You can learn more on the "maps" 
 
 ### Cool. How do I sign up?
 
-Signups for 2021 are closed, so ya can't anymore. Reach out to George (or whoever linked you here) if you want an invite email for next year.
+Signups for 2022 are available by email request for now. I'll post a link here soon.
 
 ### I am signed up. What should I be doing now?
 
 The things which every rider should do are:
 - Submit your info via the entry form (not linked here b/c signups are closed).
-- Pay George the entry fee ($40 all-inclusive).
+- Pay the entry fee ($40 all-inclusive).
 - Train up! Details in the Training Schedule.
 - Make sure your bike is ticking like clockwork. See the Mechanical Checklist and/or "Shakedown Ride" section of the Training Schedule.
 - Make sure you've got the gear you need to ride, camp, and enjoy your time on the cape! The Packing List is probably what you want.
@@ -43,7 +43,7 @@ What does work (for me):
 - Flat soles. If you're not comfortable walking in clippity-clop road shoes, this is not the weekend to try them out. Fast people, you do you (y'all do y'all?).
 - Good socks and foot powder.
 
-### I'm so thirsty right now. Also I was wondering how to hydrate on the ride?
+### I'm so thirsty right now. Also I was wondering how to hydrate on the ride.
 I once rode this ride with only one water bottle and I absolutely hated having to stop a dozen times a day for refills, so I recommend having 2L of water capacity or more. I like:
 - Two big bike botles (in the packing list), or
 - A hydration bladder such as the kind hikers like. I like the fannypack format but the slim backpack format also works well.
