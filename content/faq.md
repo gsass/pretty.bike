@@ -47,3 +47,6 @@ What does work (for me):
 I once rode this ride with only one water bottle and I absolutely hated having to stop a dozen times a day for refills, so I recommend having 2L of water capacity or more. I like:
 - Two big bike botles (in the packing list), or
 - A hydration bladder such as the kind hikers like. I like the fannypack format but the slim backpack format also works well.
+
+### I have other questions.
+Tell them to Jimmy: b64:amltbXlAcHJldHR5LmJpa2U=
