@@ -43,7 +43,6 @@ const b64render = {
     const rule = /^b64:([\d\w]*={0,3})/; // Match 'b64:<encoded>' and capture the encoded value
     const match = rule.exec(src);
     if (match) {
-      console.log({src, tokens, match})
       return {
         type: 'base64',
         raw: match[0],
@@ -52,8 +51,6 @@ const b64render = {
     }
   },
   renderer(token) {
-    console.log(token.decoded)
-    console.log(this.parser.parseInline(token.decoded))
     return `<span class='decoded'>${this.parser.parseInline(token.decoded)}</span>`
   },
 };
