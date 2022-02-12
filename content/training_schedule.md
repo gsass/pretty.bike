@@ -28,7 +28,21 @@ We (the Ride Leaders) recommend you make a training schedule and hold to it. Sug
 | 10   | 5/29    | _Rest_         | _Rest_            | If you had issues on your shakedown ride, do a shorter ride (5-10mi) to confirm fixes. |
 |      | 6/5     | RIDE WEEK      | YOU DID IT            | CONGRATS                                       |
 
-We'll post some example rides shortly, in case you need inspiration to get out and get rolling.
+## Example Rides
+
+Tom will be riding a few practice rides and everyone is welcome. All rides start from Lowden but feel free to join at any point along the route -- or do the rides yourself.
+
+### [Bedford Farms Ice Cream (~26mi)](https://ridewithgps.com/routes/38549918?privacy_code=XizDce73qfzsH6Uu)
+
+Out and back trip along the Minute Man. At the end: ice cream. Mostly flat and very few cars aside from the last ~1 mile when you transition from bike path only to rural roads.
+
+### [Walden Pond (~32mi)](https://ridewithgps.com/routes/38549788?privacy_code=C3vPGMTMCyLqKxvf)
+
+Start along the Minute Man, grab a takeaway lunch on Concord and sit by Walden Pond. Enjoy nature. It is probably still too cold to swim without a wetsuit. This trail is a loop and almost entirely on rolling surface streets with a steep descent near the end.
+
+### [Nahant (~40mi)](https://ridewithgps.com/routes/36042560?privacy_code=Oa1XAQe35N6Cxjxg)
+
+Take a trip along the (hopefully now completed) Northern Strand Community Trail. Out and back ride that ends up at East Point Memorial Park with scenic views of the ocean. Contemplate life.
 
 ## Shakedown Rides
 
