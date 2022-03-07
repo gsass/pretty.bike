@@ -7,7 +7,7 @@ And, it seems like we're all looking to Jim to answer them. Seems like he's occu
 
 ### What is this?
 
-This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are June 3rd to June 5th, 2022.
+This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are Saturday June 4th to Monday June 6th, 2022.
 
 ### The Pretty Ride?
 
@@ -18,6 +18,10 @@ The idea for this ride started around 2015 or so, when the weather was nice and 
 ### How long is that?
 
 About 150 miles, split 85/65 between two days. You can learn more on the "maps" page.
+
+### When do we roll out?
+
+We usually leave around 8-10am on Saturday and most people take a Monday ferry back from Provincetown. You really need to rush on the second day to get the last Sunday night ferry back so we recommend staying until Monday if you can swing a day off work.
 
 ### Cool. How do I sign up?
 
