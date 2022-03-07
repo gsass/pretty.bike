@@ -2,7 +2,7 @@
 
 # Hello my guyzerinhos.
 
-Welcome (back?) to the Pretty Ride. IYKYK. If you don't, that's what the [FAQ](#faq) is for.
+Welcome (back?) to the Pretty Ride happening June 3rd to June 5th, 2022. IYKYK. If you don't, that's what the [FAQ](#faq) is for.
 
 -------
 
