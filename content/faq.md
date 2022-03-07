@@ -7,7 +7,7 @@ And, it seems like we're all looking to Jim to answer them. Seems like he's occu
 
 ### What is this?
 
-This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are TBA but will likely be memorial day weekend or the first weekend of June.
+This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are June 3rd to June 5th, 2022.
 
 ### The Pretty Ride?
 
@@ -21,7 +21,7 @@ About 150 miles, split 85/65 between two days. You can learn more on the "maps" 
 
 ### Cool. How do I sign up?
 
-Signups for 2022 are available by email request for now. I'll post a link here soon.
+Signups for 2022 are available by email request for now, so fill in this form: https://forms.gle/9PvPqgUb6gezStPB6 and email George.
 
 ### I am signed up. What should I be doing now?
 
