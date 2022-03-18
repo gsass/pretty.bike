@@ -16,17 +16,17 @@ We (the Ride Leaders) recommend you make a training schedule and hold to it. Sug
 
 | Week | Weekend | Mileage (Full) | Mileage (Abbreviated) |                                                |
 |------|---------|----------------|-----------------------|------------------------------------------------|
-| 1    | 3/27    | 10             | -                     |                                                |
-| 2    | 4/3     | 20             | -                     |                                                |
-| 3    | 4/10    | 22             | 10                    | Full schedule adds 10% mileage/week, abbreviated adds 5mi/week |
-| 4    | 4/17    | 24             | 15                    |                                                |
-| 5    | 4/24    | 27             | 20                    | Vaccine signups for all MA residents start this week (4/19) |
-| 6    | 5/1     | 29             | 25                    | If you haven't yet, try riding with gear on your bike |
-| 7    | 5/8     | 32             | 30                    |                                                |
-| 8    | 5/15    | 35             | 35                    |                                                |
-| 9    | 5/22    | 40             | 40                    | Shakedown Ride, see below                      |
-| 10   | 5/29    | _Rest_         | _Rest_            | If you had issues on your shakedown ride, do a shorter ride (5-10mi) to confirm fixes. |
-|      | 6/5     | RIDE WEEK      | YOU DID IT            | CONGRATS                                       |
+| 1    | 3/26    | 10             | -                     |                                                |
+| 2    | 4/2     | 20             | -                     |                                                |
+| 3    | 4/9     | 22             | 10                    | Full schedule adds 10% mileage/week, abbreviated adds 5mi/week |
+| 4    | 4/16    | 24             | 15                    |                                                |
+| 5    | 4/23    | 27             | 20                    | Vaccine signups for all MA residents start this week (4/19) |
+| 6    | 4/30    | 29             | 25                    | If you haven't yet, try riding with gear on your bike |
+| 7    | 5/7     | 32             | 30                    |                                                |
+| 8    | 5/14    | 35             | 35                    |                                                |
+| 9    | 5/21    | 40             | 40                    | Shakedown Ride, see below                      |
+| 10   | 5/28    | _Rest_         | _Rest_            | If you had issues on your shakedown ride, do a shorter ride (5-10mi) to confirm fixes. |
+|      | 6/4     | RIDE WEEK      | YOU DID IT            | CONGRATS                                       |
 
 ## Example Rides
 
