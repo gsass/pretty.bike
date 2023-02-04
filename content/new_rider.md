@@ -1,8 +1,37 @@
 # Pretty Jimmy As A New Rider
 
-![Shannon, in cycling gear, posing with her bike by the "Entering Provincetown" sign on Route 6A.](../img/ptown_sign_shannon.jpg)
+If you're on the fence about doing your first long ride, here's some personal narratives from one-time new riders on how it was to take the plunge. I do not pay these people, and wherever possible, I do not edit their words.
 
-<sup>Contributed by Shannon, 2019 and soon-to-be 2021 rider</sup>
+## Avi, First Time Rider \`22
+![Per Avi, "obligatory photo at the P-town \[town line\] sign".](../img/ptown_sign_avi.jpg)
+
+If you haven't met me, you gotta know that I am unfit and uncoordinated as hell. And I still made it (with a ton of help from everyone). If you think you can't do the ride, I'm proof that it's possible, even if you don't have an athletic bone in your body (at the start). If you're thinking about it, here are a few things I wish I had known before last time. It's not too much because the tips on the website were really complete!
+
+### Training
+If you're in decent shape, [the schedule on the site](#training) works. I was not in good shape, and it still was (just barely) good enough! But the ride would have been much more comfortable had I pushed a little harder on a few things:
+- Balance/core: I'm uncoordinated af and it took a lot of practice to be able to comfortably bike one handed while drinking water/eating snacks - but I totally lost that comfort because I was too tired halfway through day one. I highly recommend making practicing riding with one or no hands a regular part of your training routine from the beginning.
+- Power/hills: I did not train enough at full load weight for some of the hills on the journey, and it really slowed me down when I had to take breaks on some of the longer climbs. I never really learned how to pedal consistently out of my seat but sometimes you just need that torque (it's on my list for 2023). I think my new goal of preparedness is to be able to hit a steep hill fully loaded *after* the longer training rides to make sure I've got enough endurance, but again, if you are in better overall condition it might not be necessary.
+- Starting/stopping your bicycle quickly: I didn't anticipate this being an issue (you're ass in saddle for most of the ride) but it helps so much with being able to take quick stretch/snack breaks. You will also inevitably need to start while on a hill and being able to mount a bike off a bit of a running start (or that power stomp type start) without falling over (while fully loaded) would have been nice. \
+\
+The faster you can (comfortably) go, the more likely it is you make it before dark! The path was fine after sunset but setting up a tent in the dark is pretty challenging.
+- Gear: mostly just follow the tips on the site, but I will emphasize: **optimize the fit and comfort of your bike before seriously training!** A comfy seat and ergonomic grips are an absolute must, but they also make training easier (wish I had known that earlier).
+
+### The Ride
+I was really surprised that the ride itself gets more enjoyable the longer you go. Getting out of Boston is really the worst of it - once you are in the suburbs proper it gets much much more fun. Getting started the second day was really rough, not gonna lie, but once I warmed up biking through the cape is beautiful, up until about halfway where it got downright magical (_ed. note: We all love the Cape Cod Rail Trail_).
+
+Camping isn't as scary as I thought it was! Still not my cup of tea, but the campsites themselves have great facilities.
+This is a really good group of people to ride with. I was in the slow group but there was a lot of fun conversation, chatter, and just jamming to whatever tunes people were blasting throughout. All of the stops (despite mostly being me starfishing on the nearest patch of soft-ish ground) were pretty fun too!
+Everyone was really supportive of my struggling through it and slowing things down some, so many warm and fuzzy moments of people just cheering me through the hardest parts.
+
+### When you get home
+Ice everything! I didn't do this and probably exacerbated some (prior) long term injury things more than I should have. Is this a thing serious athletes know?
+Exercise your finest humblebrag skills, people will be impressed as fuck and you will deserve it, but you don't want to seem too smug about it.
+
+Overall, I actually want to do the ride again (I usually hate outdoorsy or physical things), and I can't think of a better endorsement than that!
+
+
+## Shannon, First Time Rider \`19
+![Shannon, in cycling gear, posing with her bike by the "Entering Provincetown" sign on Route 6A.](../img/ptown_sign_shannon.jpg)
 
 _“And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.” - Anaïs Nin_
 
@@ -18,40 +47,40 @@ _“Perfectly New England towns, curvy roads, misty morning, turkey sightings, e
 
 _“I looked down at the ocean waves. The ferry cut smoothly across them, even the tall ones. Boston skyline appeared in the distance, sun reflected off the water, and the wind battered me but I couldn't stop smiling.”_
 
-<sub>[1] If you don’t know what these are, you should: Italian for “drowned,” it’s espresso poured over vanilla gelato or ice cream</sub>
+<small>[1] If you don’t know what these are, you should: Italian for “drowned,” it’s espresso poured over vanilla gelato or ice cream</small>
 
 ______
 
 I know that this ride can seem really daunting! I wanted to do it originally in 2018, put it off for a year, and still didn’t train as much as I wanted to in 2019. Yet, I had a great time and am going for it again this year. I hope to relate some of my experiences as a new rider, to demystify the whole process of preparing for the ride and to offer a first-person perspective of the ride itself. I know I had a lot of questions going into it and I hope to answer some of the questions I had and make it easier to join as a first-time rider.
 
-## Bicycle
+### Bicycle
 If you’re buying a bike, as I did, you don’t have to spend crazy amounts of money. You probably want a reliable, recently tuned up road bike with a rack and decent brakes. I bought mine on Craigslist a couple months after backing out of the 2018 ride. I consulted with George about models/years to look for. My budget was under ~$400. The bike I bought was more like $250 and it’s been great. I replaced the rack with one that was more sturdy, but otherwise my bike was in good condition when I bought it.
 
 Whatever bike you use, do not skip training on it! Believe me when I say you want to follow the advice to train with the exact setup you will use on the ride (if not the whole time, at least for the last training ride or two). If not, chances are high you will be miserable/uncomfortable within the first hour and have to make hasty adjustments mid-ride, which is not fun.
 
-## Training
+### Training
 As I mentioned, I didn’t train as much as I wanted to. I was in decent shape already; I was regularly running short distances (2-3 miles) and had a hot power yoga practice. I went on a variety of evening and weekend training rides in the 2 months leading up to Pretty Jimmy, mostly riding on the Charles River trail and trying to go farther each time. Distances ranged from 5-10 miles, up to maybe 25 miles roundtrip for my longest ride. I had hoped to do at least one longer ride, but couldn’t make it happen. Even though my longest training ride was short compared to the 140+ miles of Pretty Jimmy, I didn’t experience any injuries or severe discomfort on the ride. My legs were definitely sore though!
 
-## Gear
+### Gear
 This section repeats some things from the Packing List. I’ve added my thoughts on what gear was most useful for me. I packed a few different categories of gear: lightweight camping gear (which I already had), panniers/other cargo carriers, clothing & “comfort” items, and miscellaneous supplies & food.
 
-### Camping Gear
+#### Camping Gear
 I absolutely recommend camping the first night with the rest of the crew. It’s a great time to connect with everyone, especially after being broken up into different sub-groups throughout the day. At a minimum, you’ll need shelter (tent or hammock) and something to sleep on/in (sleeping bag & pad, or blankets, whatever you need to be comfortable). My setup was a small backpacking-style tent and a sleeping bag that could pack down to about the size of a soccer ball. You can get away with something larger as long as it fits on your bike. I didn’t bother bringing a sleeping pad because I was terrified of over-packing! So instead, I depended on finding a comfy patch of pine straw to set my tent up on top of. That was mayyybe too extreme--I’m planning to pack a sleeping pad this year.
 
-### Panniers, etc
+#### Panniers, etc
 My biggest gear expense was panniers. You don’t /need/ to buy Ortlieb ones, but almost everyone else has them and it makes for a cute scene on the ride. In 2019, we had a full range of options from “strapping a regular backpack to the bike” to various cloth panniers, to Ortliebs which are fully waterproof and durable. I wanted to invest in gear that would last for many future rides, so I sprung for Ortlieb panniers. I really value waterproofness, and I have already used them on many shorter rides, so I don’t regret the purchase. In addition to panniers, you may want to look into other storage accessories. I didn’t bother, personally, since I was not a navigator and didn’t want to spend /too/ much money on my first bike touring ride. That said, you can go crazy with accessories, from baskets, to cell phone holders, to smaller panniers for the front of the bike, to mirrors, etc etc. I did buy a water bottle holder which is kinda indispensable, unless you are using a CamelBak.
 
-### Clothing & Comfort
+#### Clothing & Comfort
 The best advice I got was to pamper all points of contact between you and the bike. When you are in contact for 8 hours a day, every detail matters. Although you could probably survive the ride without these things, I made sure to have:
 - Cycling gloves to protect my hands
 - Padded shorts to protect my ass, which is the most critical IMO!
 - Shoes with a stiff sole to efficiently transfer energy from legs to pedals—NOT squishy running shoes.
 Even more efficient would be to have the type of pedals you shove your toes into, or attach to, but I personally feel uncomfortable with that. I ended up wearing a pair of Keens that were well-broken-in and they worked fine. If you aren’t familiar with outdoor sports in general, you should wear clothing that is 100% synthetic, not cotton, and have multiple layers. Keep at least one cozy and dry outfit well-protected from the elements to change into at the end of the day, especially if rain is in the forecast.
 
-### Miscellaneous Supplies / Food
+#### Miscellaneous Supplies / Food
 I don’t have much advice in this area, except you know what you need best! Probably sunglasses, a hat, sunscreen, bugspray, a flashlight, a way to charge your phone, snacks, extra water bottles, and the like. I used a lot of sunscreen because I’m pale and the ride makes you sweat!!
 
-## The Ride Itself
+### The Ride Itself
 My stomach was in knots the first morning. Confronted with the reality of getting on my bike saddle and not getting off all day, I did not feel prepared at all. I had not taken the advice/demand seriously to do a training ride with my gear set up the same way it would be on Pretty Jimmy and I regretted it. That morning, I borrowed a couple of bungee cords to attach my tent to the top of my bike rack. Friends helped me adjust the clip-like parts of my panniers so that they actually stuck to my bike over rough terrain. I had under-packed clothes out of fear of too much weight and ended up borrowing a sweater that night. I had enough space for everything in my panniers, but wished I had thought through their organization, better.
 
 We set off early that morning to get to the starting location on time. On the way from Somerville towards Longwood, over a particularly large bump, my metal water bottle popped out of the water bottle holder (I should have tested it beforehand!) and the top rolled into the river... not off to a good start. Luckily I didn’t have the same issue with a smaller plastic water bottle, which I used the rest of the ride.
