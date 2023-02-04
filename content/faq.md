@@ -25,7 +25,7 @@ We usually leave around 8-10am on Saturday and most people take a Monday ferry b
 
 ### Cool. How do I sign up?
 
-Signups for 2022 are available by email request for now, so fill in this form: https://forms.gle/9PvPqgUb6gezStPB6 and email George.
+The sign up link is available on the [home page](https://www.pretty.bike).
 
 ### I am signed up. What should I be doing now?
 
