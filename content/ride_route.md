@@ -6,23 +6,25 @@
 
 It takes us from Longwood (in Boston), through several very scenic Massachussetsey areas:
 - On bike paths through and out of Metro Boston
-- Through couple fairly pretty suburban towns just outside of the city
+- Through some pretty suburbs in Metro South, and across a golf course
 - Past like 10 cute farms with roadside stands selling things such as ice cream and fresh radishes
-- Through some improbably quiet towns with horrible food options and really attractive swimming spots
-- Down to some more sleepy towns, each smelling increasingly more like it's close to an ocean
+- Through some (also pretty) towns with lackluster food options but great swimming spots
+- Down to Snapping Turtle Park and then like, the absolute most awful town in Eastern MA
+  - Decent roads, terrible people. Unclear what's happening here!
+  - But also sorry; it's very hard to route away from this liminal space
 - Through Onset (the first gorgeous beach town of the ride), where there's finally _great_ food. Clamcakes!
 - Along a shipping canal, on a quiet tow path
 - Over a bridge and through a traffic circle so large that other traffic circles have started spawning off the sides of it. Truly a marvel of modern infrastructure, and containing one of three (3!) cyclist-only rotaries we will see on the trip.
 - Along the other side of the shipping canal, on another quiet tow path
 - To the campground for night one
 - Through a bunch of totally sick marshes, brackish inlets, and cranberry bogs.
-- To brunch.
+- **Brunch** in Yarmouth
 - Down a bunch of verrrry narrow roads on the bay side of the penninsula
 - Up to, and I shit you not **20-odd miles of continuous protected bike path**
 - Over some big hills to a beautiful, often frigid beach
-- [Optional challenge section 1: Old King's Highway]
+- _Optional challenge section 1: Old King's Highway_
 - Over some other big hills (what the hell are these doing at the end of a peninsula which is like 12 feet wide?) with increasingly tempting ocean views
-- [Optional challenge section 2: Scrimshaw Road Hill]
+- _Optional challenge section 2: Scrimshaw Road Hill_
 - Last big hill, I promise. Look to your right or you'll miss the vineyard!
 - Down, and I also shit you not, a country road with oyster shells for a shoulder
 - Into Provincetown! You made it!
