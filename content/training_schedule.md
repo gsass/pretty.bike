@@ -20,7 +20,7 @@ We (the Ride Leaders) recommend you make a training schedule and hold to it. Sug
 | 2    | 4/2     | 20             | -                     |                                                |
 | 3    | 4/9     | 22             | 10                    | Full schedule adds 10% mileage/week, abbreviated adds 5mi/week |
 | 4    | 4/16    | 24             | 15                    |                                                |
-| 5    | 4/23    | 27             | 20                    | Vaccine signups for all MA residents start this week (4/19) |
+| 5    | 4/23    | 27             | 20                    |  |
 | 6    | 4/30    | 29             | 25                    | If you haven't yet, try riding with gear on your bike |
 | 7    | 5/7     | 32             | 30                    |                                                |
 | 8    | 5/14    | 35             | 35                    |                                                |
