@@ -47,6 +47,10 @@ hr {
         border: dotted 1px #2faded;
     }
 
+    .nav-menu a {
+        font-size: 1.5vmax;
+    }
+
     .content {
         padding: 20px;
     }
