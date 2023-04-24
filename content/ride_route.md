@@ -9,9 +9,10 @@ It takes us from Longwood (in Boston), through several very scenic Massachussets
 - Through some pretty suburbs in Metro South, and across a golf course
 - Past like 10 cute farms with roadside stands selling things such as ice cream and fresh radishes
 - Through some (also pretty) towns with lackluster food options but great swimming spots
-- Down to Snapping Turtle Park and then like, the absolute most awful town in Eastern MA
+- Down to Snapping Turtle Park and then (please don't hate me) the one incredibly bike-unfriendly town on this ride
   - Decent roads, terrible people. Unclear what's happening here!
-  - But also sorry; it's very hard to route away from this liminal space
+  - Sadly it's very hard to route away from this liminal space, but
+  - we have made it safely through this town before and will do it again.
 - Through Onset (the first gorgeous beach town of the ride), where there's finally _great_ food. Clamcakes!
 - Along a shipping canal, on a quiet tow path
 - Over a bridge and through a traffic circle so large that other traffic circles have started spawning off the sides of it. Truly a marvel of modern infrastructure, and containing one of three (3!) cyclist-only rotaries we will see on the trip.

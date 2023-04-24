@@ -49,15 +49,16 @@ I (George) prefer rocking shell shorts over padding liners, because I like looki
 - 1 toiletry kit (if you use Bronner's soap it's also a dishwashing and laundry kit!)
 - 1 big tube of sunscreen (I advise "hella SPF" regardless of your complexion)
 - 1 tube of anti-junk-chafing cream (I like "Butt'r", and there's a more coochie-friendly version for ladies)
-- 1 small body glide (to prevent non-junk chafing)
-- 1 small first-aid kit (someone in the breakdown crew will have a full kit, but a couple band-aids + sterile wipes weigh like 10 grams so just do it.)
+- 1 small body glide (optional, but helps prevent neckline/arm cuff/nip chafing)
+- 1 small first-aid kit (a couple band-aids + sterile wipes is enough; a designated person will carry a full kit)
 - A couple grocery bags for trash reasons (you can get these at an actual grocery store en-route I guess)
+
+_NOTE: If you have seasonal allergies, bring enough of your fav antihistames for the weekend. Depending on the weather, we may arrive either before cypresses bloom on the cape, or during peak bloom. You may also want to bring a COVID test, because this beautiful golden pollen will give you a dry cough and coat your nose to where you can't smell good, and everyone will feel better when you confirm it is not COVID._
 
 **Electronixxx**
 - 1 loud-ass waterproof speaker to blast the jams (optional but very clutch)
 - 1 battery pack which can charge your phone (also optional but clutch)
 - Chargers which can charge your lights and phone (NOT OPTIONAL)
-- 1 walkie talkie if you want it; we will provide
 
 **Kitchenware**
 - 1 small folding knife
@@ -84,15 +85,15 @@ Individual riders can carry these things too (especially if they own them!) but 
 ## Hauling it
 Thankfully, people have needed to carry crap on their bicycles since forever, so there’s plenty options for doing it. Here are the ones I’ve seen work.
 
-*...actually before we go there, let me stop you and say **absolutely do not try to do this ride in a backpack**. Hydration sack mini-backpacks are fine, but unless you want to well and truly enter the next level of chafing, blistering, and body acne, stay the absolute whoo-hah away from that Jansport you're eyeing (unless you're attaching it to your rack/bike basket somehow). I will have no sympathy if you try to backpack this ride. None. Do not do this. Anyway,*
+*NOTE: **absolutely do not try to do this ride in a backpack**. Hydration sack mini-backpacks are fine, but unless you want to well and truly enter the next level of chafing, blistering, and body acne, stay the absolute whoo-hah away from that Jansport you're eyeing (unless you're attaching it to your rack/bike basket somehow). I will have no sympathy if you try to backpack this ride. None. Do not do this. Anyway,*
 
 **Panniers!** For road rides on a bike that can easily fit regular-style racks on the back/front you really can’t beat some damn panniers. I like Axiom Stormfronts, Koki grocery panniers, and Ortliebs. Those all cost tall money, so I would also check with REI/Craigslist for deals. REI will apparently let you rent some gear; idk if panniers are included. If you want to be cute, you can go for four matching Swift panniers, and we will all Insta your bike instead of ours and call it a day.
 
 **Frame bags/strapping compression sacks to your bike.** Frame bags work super great, and are the lightest/potentially cheapest way to carry your gear, but have two caveats. First, attachment is critical: if your load swings even slightly it will piss you off so much that you will buy a seatpost bag support/front rack in the middle of the ride. This isn't a problem with dedicated frame bags but I highly advise you test ride (more than ten miles) with your load if you're taking this route. Second, application-specific solutions like a frame bag or "ass rocket" seat bag might be harder to pack on account of their uh, unique shape.
 
-I’ve personally used a Jandd “ascent bag” (basically a compression sack with straps around the outside) held to a pannier with some Voile straps, and I love the cheapass “XL Frame Bag” and “Regular-Ass Frame Bag” from Jandd (they are cheap as hell). I've seen a rider fit a home-made frame bag through his entire front triangle plus run a compression bindle on a seatpost rack, and he got through the ride just fine.
+I’ve personally used a Jandd “ascent bag” (basically a compression sack with straps around the outside) held directly to the rack with some Voile straps, and I love the cheapass “XL Frame Bag” and “Regular-Ass Frame Bag” from Jandd (they are cheap as hell). I've seen a rider fit a home-made frame bag through his entire front triangle plus run a compression bindle on a seatpost rack, and he got through the ride just fine. Another rider lashed a hiking backpack to the rack (again, not their back!) such that the straps did't get caught in their spokes, and that worked fine, but if you really want to bikepack with a backpack (backpackpacking), consider:
 
-**Wald 137 Basket full of crap.** The Wald 137 (sometimes aka Wald 1372) is a steel-frame bike basket made in the USA and it is cheap as hell but somehow still extremely good, and even scientists are still trying to figure out why. I think it's because they haven’t updated the design for 60 years at least. If you just want to get things around and don’t mind having to really use your forearms, it is entirely possible to pile most of your crap in a backpack/gym bag, throw it in a Wald, throw some more crap in a frame bag/compession sack, and be done.
+**Wald Basket full of crap.** The Wald 137 (sometimes aka Wald 1372) is a steel-frame bike basket made in the USA and it is cheap as hell but somehow still extremely good, and even scientists are still trying to figure out why. The 139/2 is the bigger 137.  The design is so solid that they haven’t updated it for 60 years at least (but they did add special editions in cute colors). If you just want to get things around and don’t mind having to really use your forearms, it is entirely possible to pile most of your crap in a backpack/gym bag, throw it in a Wald, throw some more crap in a frame bag/compession sack, and be done.
 
 ### Should I share, borrow, or buy?
 You’re going to be riding with people, through relatively populated places. While there’s some things everyone needs for themselves (e.g. spare tube, junk cream), there's other stuff which can be shared (e.g. don't bring two tents if you're a couple, but you knew that), borrowed (I will have some packing gear, others might too, I may or may not set up a place where people can swap/request stuff), or bought en-route (e.g. macrame gloves and bike caps, on day 2, when you realize why I took the time to call out those two specific items above). This list of gear is probably pretty intimidating to a first-time rider, and I get that, and I'm sorry, and I'm here to help.

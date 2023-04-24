@@ -37,10 +37,16 @@ The things which every rider should do are:
 - Submit your info via the entry form, as noted in the last question.
 - Pay the entry fee ($50 all-inclusive).
 - Train up! Details in the [Training Schedule](#training).
-- Make sure your bike is ticking like clockwork. See the Mechanical Checklist and/or "Shakedown Ride" section of the Training Schedule.
+- Make sure your bike is ticking like clockwork. See the [Mechanical Checklist](#mechanicals) and/or "Shakedown Ride" section of the Training Schedule.
 - Make sure you've got the gear you need to ride, camp, and enjoy your time on the cape! The Packing List is probably what you want.
 
 See you on the ride! _(or sooner, just let us know)_
+
+### What is "touring"? What is "cAmPiNg"?
+
+Touring is like riding your bike, except there's stuff attached to your bike, specifically stuff in [this packing list](#packing). It isn't particularly hard and we (_ride leaders, can you believe it?_) can help you with some of the gear.
+
+"Camping" in the context of this ride is rolling up to a campsite which has amenities such as flat ground, trees, a grill/fire pit, and showers! Showers! This is not a drill! You will be expected to set up your tent/hammock and to not antagonize the rangers, who are generally pretty chill but don't like it if you bring beer into public parts of the campsite.
 
 ### What kind of shoes should I wear? Do I need to go clipless?
 You can do this ride in regular sneakers, and you can do it in clipless (which is just the worst misnomer jfc) bike shoes. The latter isn't required; I rode clipless for the first few rides and it reduced foot fatigue a bit but I'm not fast, and clipless didn't make me faster, so I swapped back to plain sneakers.
