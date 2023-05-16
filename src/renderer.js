@@ -2,6 +2,14 @@
 * Define custom renderer to apply Pure classes as needed
 */
 const renderer = {
+  checkbox(checked) {
+    return '<input '
+      + (checked ? 'checked="" ' : '')
+      + 'type="checkbox"'
+      + (this.options.xhtml ? ' /' : '')
+      + '> ';
+  },
+
   table(header, body) {
     if (body) body = `<tbody>${body}</tbody>`;
 
