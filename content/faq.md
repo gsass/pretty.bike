@@ -7,7 +7,7 @@ And, it seems like we're all looking to Jim to answer them. Seems like he's occu
 
 ### What is this?
 
-This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are Saturday June 4th to Monday June 6th, 2023.
+This is the website for the Pretty Ride: a two-day ride from Boston to Provincetown. This year's ride dates are Saturday June 3rd to Monday June 5th, 2023.
 
 ### The Pretty Ride?
 
