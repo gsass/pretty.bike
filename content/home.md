@@ -6,12 +6,4 @@ Welcome (back?) to the Pretty Ride - same place (Boston to Ptown), same time-ish
 
 -------
 
-## At-a-glance
-
-- b64:WyYjMTI4MTI5OyZ6d2o7JiM5NzkyOyYjNjUwMzk7IEluZm9ybWF0aW9uc10obWFpbHRvOmppbW15QHByZXR0eS5iaWtlKQ==
-
-## If you want to come
-- Wait until 2024 - signups open in February.
-- Submit the survey.
-- Pay me what you owe me.
-- Start working out, ideally on your bike.
+[Keys open doors.](https://forms.gle/RAzhVcqK8728w1TV7)
