@@ -1,0 +1,63 @@
+div {
+    font-size: 3.5vmax;
+}
+
+table {
+    font-size: 2.5vmax;
+}
+
+.nav-menu {
+    margin-top: 5%;
+    border-bottom: dotted 1px #2faded;
+}
+
+.nav-menu a {
+    font-size: 2.5vmax;
+}
+
+#main {
+    overflow-x: scroll;
+    padding: 20px 10%;
+}
+
+.content {
+    padding-left: 1em;
+}
+
+.content img {
+    margin: 0 auto;
+    max-height: 50vh;
+}
+
+hr {
+    margin: 2em 0;
+    border: 1px dotted #dabdad;
+}
+
+@media screen and (min-width: 64em) {
+    div, table {
+        font-size: 1.5vw;
+    }
+
+    #main {
+        overflow-x: auto;
+    }
+
+    .nav-menu {
+        margin-top: 20%;
+        border: dotted 1px #2faded;
+    }
+
+    .nav-menu a {
+        font-size: 1.5vmax;
+    }
+
+    #main {
+        padding: 20px;
+    }
+
+    .content img {
+        max-height: 70vh;
+        max-width: 60vw;
+    }
+}

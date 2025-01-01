@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "label": "🚴‍♂️🦞🌈🏖🚴‍♀️",
+            "url": "/"
+        },
+        {
+            "label": "FAQ",
+            "url": "/faq/"
+        },
+        {
+            "label": "For First-Time Riders",
+            "url": "/new_rider/"
+        },
+        {
+            "label": "Maps + Cue Sheet",
+            "url": "/ride_route/"
+        },
+        {
+            "label": "Packing List",
+            "url": "/packing_list/"
+        },
+        {
+            "label": "Mechanical Checklist",
+            "url": "/mechanical_checklist/"
+        },
+        {
+            "label": "Training To Ride",
+            "url": "/training_schedule/"
+        }
+    ]
+}

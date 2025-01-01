@@ -1,0 +1,14 @@
+<!doctype html>
+<div class="pure-g nav-menu">
+    {% for navItem in nav.items %}
+        {% if navItem.url == "/" %}
+        <div class="pure-u-1">
+            <a href="{{ navItem.url }}" class="pure-menu-link {{ 'menu-link-active' if page.url == navItem.url }}">{{ navItem.label }}</a>
+        </div>
+        {% else %}
+        <div class="pure-u-1-2 pure-u-lg-1">
+            <a href="{{ navItem.url }}" class="pure-menu-link {{ 'menu-link-active' if page.url == navItem.url }}">{{ navItem.label }}</a>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>

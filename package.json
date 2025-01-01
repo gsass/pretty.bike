@@ -1,7 +1,7 @@
 {
   "name": "pretty.bike",
   "description": "Homepage for the Pretty Ride to Provincetown",
-  "version": "0.1",
+  "version": "2.0.0",
   "repositories": [
     {
       "type": "git",
@@ -9,8 +9,13 @@
     }
   ],
   "homepage": "https://pretty.bike",
-
-  "scripts": {
-    "dev": "node scripts/server.js"
+  "author": "gsass",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-plugins": "^0.1.6",
+    "markdown-it-tasks": "^0.0.5"
   }
 }
