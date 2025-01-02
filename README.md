@@ -16,3 +16,5 @@ To add a new page:
 
 ## Wishlist/TODOs
 - [ ] Minify images and use `srcset`s
+- [ ] Make checkboxes work
+- [ ] Ride photo for Zach
