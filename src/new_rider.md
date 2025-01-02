@@ -7,6 +7,58 @@ title: New Riders
 
 If you're on the fence about doing your first long ride, here's some personal narratives from one-time new riders on how it was to take the plunge. I do not pay these people, and wherever possible, I do not edit their words.
 
+## Zach, First Time Rider \`24
+> _Jimmy: “Can I give you my testimony?”_ <br />
+> _Millie: “You can do anything you want.”_ <br />
+> -Bull Durham, 1988, dir. Ron Shelton
+
+150 miles! 2 days! Bicycles! Camping! Camaraderie! Crimes! Tune in next June to find out more!
+
+I have to say, in the week or so leading up to departure, I was a little nervous.
+_Am I overpacking or underpacking, will my bike make the journey, will my legs, etc…_
+Most of these fears ebbed away as the actual cycling took over, and by the very end, those fears were washed out to sea, replaced by the satisfaction, and pleasure, of a long ride completed, by the sights seen, and by the good times shared with the other riders.
+
+### Training
+One of my internal motivations to do this ride was to get in “better shape,” which, in hindsight, is kinda bananas. I do not have an “exercise regimen,” and while I do ride my bike around town/commute, we are talking sub-5 miles a day, ballpark. This presents a challenge if you decide to ride ~70 miles/day. I highly recommend trying to follow the training schedule breakdown on the site, and maybe working in some core exercises (I tried, and mostly failed, to do pushups everyday). I felt mostly prepared, physically, for this after doing the below training, and would stick to a similar plan for future pretty rides.
+
+I started doing stationary at home in March, and then gradually ramped up some longer rides:
+- ~42 miles roundtrip to Salem (Big, big fan of this ride! It’s flat, you are on [dedicated bike
+paths](https://greenway.org/states/massachusetts) for a majority, some cool coastal sights, plus Salem is fun)
+- ~38 miles roundtrip to Walden Pond on Ellen’s approved route (This was the most
+elevation I had dealt with to that point, so definitely worked me over a bit, but it is a very
+nice ride, Walden Pond is gorgeous, and it is good training)
+- ~51 miles to Worcester, commuter rail back to Boston (Also some elevation here, at the
+very end to boot, but Worcester is cool, and this is an excellent ride to do with a load to
+test yourself for Provincetown)
+
+### Gear
+I have a Jamis Coda Sport bicycle, which is _not_ a touring bike, but with the right rack, basket, bungies, and panniers(get these secondhand if you are trying to save money, or invest in new ones), I made it work. Will definitely look to get lighter for future pretty rides (smaller sleeping bag so I can try and bring a sleeping mat) but as my formative camping experience came as a cub scout “be prepared” echoed in my mind as I packed.
+
+Follow the checklist on the site! I have fairly extensive tent-camping experience, but this is bike-camping, not car-camping, so you need less stuff! Keep your sunscreen, and bug spray easily accessible. You are exposed to the sun throughout the day. You will most likely be arriving at the campgrounds around dusk, so the bugs will be out.
+
+I packed a Polaroid camera, to try and take pictures, but had this buried in my bag, so I only took two photos in Provincetown, and none on the road. Pack so that what you need is at hand!
+
+### Clothing
+I shelled out for 2 bike shorts, both Pearl iZumi’s during REI sales. I wore a pair of quick-dry shorts over them. I did only wear bike shorts on one previous training ride, and it took some adjusting. I do recommend the bike shorts (recovery time was pretty quick after being in the saddle for two days) but I also recommend wearing them before the pretty ride to adjust.
+
+Bike gloves are great, your hands will get sweaty! If you are as follically deprived as I am, a hat or bandana under your helmet is recommended. Also, sunglasses!
+
+I had some trouble getting the right size biking shoes(not clip-ins), but remembered Shannon’s note about wearing Keens, so did the whole ride in my Merrell hiking boots. They have a good, stiff sole, and keep a solid grip on my pedals. Wear something that works for you, but definitely try for a stiff sole.
+
+### THE RIDE
+As previously mentioned, I was nervous in the lead up, but once you are on the road, as a group, it is fairly easy to get in a good rhythm. I am still not a strong cyclist, so I feel like it can be challenging to go slowly as opposed to keeping your own pace, but this doesn’t pose an issue, as there will undoubtedly be different groupings, with set stops to reconvene as one. The cue sheets do come in handy, and I was able to keep them easily readable in my basket, conserving precious phone battery juice.
+
+I know not everyone enjoys biking through city vs country, but I loved the mix on this ride. Do you love hydrangeas in a suburban setting? Or boats in a harbor? Well this is a ride for you! The Cape Rail Trail lives up the hype; it is awesome. The hills in Truro? Also live up to the hype, but you just have to muscle up, and down, and up, and down, and up, until it is mostly down all the way to your photo finish\* at the sign.
+
+The whole weekend I heard myself saying *_groovy_*, a disused word in my vocabulary, but folks, I
+meant it.
+
+(\*the sign is in fact not the end of the ride, but it is fairly close, kinda)
+
+When you are fed and showered, laying out on a dune in Provincetown, under a dazzling night sky, the sound of wind and waves in the distance, passing around a bottle of rum, those hard fought hills become a distant memory. You are now in the moment, one with the moment…
+
+> _“It soared, a bird, it held its flight, a swift pure cry, soar silver orb it leaped serene, speeding, sustained, to come, don&#39;t spin it out too long long breath he breath long life, soaring high, high resplendent, aflame, crowned, high in the effulgence symbolistic, high, of the ethereal bosom, high, of the high vast irradiation everywhere all soaring all around about the all, the endlessnessnessness…”_
+
 ## Avi, First Time Rider \`22
 ![Per Avi, "obligatory photo at the P-town \[town line\] sign".](../img/ptown_sign_avi.jpg)
 
