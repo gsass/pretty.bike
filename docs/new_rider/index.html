@@ -2,8 +2,8 @@
 <html>
     <head>
         <!-- Import `pure.css` and its responsive grid plugin for styling -->
-        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css">
-        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/grids-responsive-min.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css" />
         <!-- favicon -->
         <link rel="shortcut icon" href="./img/favicon.svg">
 
@@ -16,6 +16,15 @@
 
 table {
     font-size: 2.5vmax;
+    border-collapse: collapse;
+}
+
+thead {
+    border-bottom: dotted 2px #2faded;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #EAEAEA;
 }
 
 .nav-menu {
@@ -34,6 +43,7 @@ table {
 
 .content {
     padding-left: 1em;
+    margin-right: 5%;
 }
 
 .content img {
@@ -62,6 +72,7 @@ hr {
 
     .nav-menu a {
         font-size: 1.5vmax;
+        margin .5em auto;
     }
 
     #main {

@@ -4,6 +4,15 @@ div {
 
 table {
     font-size: 2.5vmax;
+    border-collapse: collapse;
+}
+
+thead {
+    border-bottom: dotted 2px #2faded;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #EAEAEA;
 }
 
 .nav-menu {
@@ -22,6 +31,7 @@ table {
 
 .content {
     padding-left: 1em;
+    margin-right: 5%;
 }
 
 .content img {
@@ -50,6 +60,7 @@ hr {
 
     .nav-menu a {
         font-size: 1.5vmax;
+        margin .5em auto;
     }
 
     #main {
