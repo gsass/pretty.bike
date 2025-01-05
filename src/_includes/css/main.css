@@ -15,6 +15,10 @@ tbody tr:nth-child(even) {
     background-color: #EAEAEA;
 }
 
+td:not(:first-child) {
+    text-align: left !important;
+}
+
 .nav-menu {
     background-color: white;
     margin-top: 5%;
@@ -36,7 +40,7 @@ tbody tr:nth-child(even) {
 .content {
     background-color: white;
     padding: 1em;
-    margin: 0 5%;
+    margin: 1em 0;
 }
 
 .content p img {
@@ -72,6 +76,10 @@ hr {
 
     #main {
         padding: 20px;
+    }
+
+    .content {
+        margin: 0 5%;
     }
 
     .content img {
