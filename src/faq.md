@@ -19,7 +19,13 @@ Yep! Technically it's "The Pretty Jimmy Ride, brought to you by ARC Reliable Sha
 
 The idea for this ride started around 2015 or so, when the weather was nice and George + Simon got tipped off to this whole giant peninsula they could ride their bikes down. Over the years it's evolved into an all-levels social bike tour down the back roads of Eastern MA and Cape Cod.
 
-### How long is that?
+### Is this like, a real ride?
+
+In the sense that we really ride our bikes to a Ptown, yes.
+
+In the sense that we're professionals running an event, no. We are just some people with a wacky hobby (wacky!), doing a thing with our friends and our friends' friends. Please don't expect a big organized ride - just some guyzos who know where the campsites, Houses Of Pizza, and other local attractions are.
+
+### OK that seems fine; how long is the ride?
 
 About 150 miles, split 85/65 between two days. You can learn more on the "maps" page.
 
