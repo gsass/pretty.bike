@@ -5,7 +5,7 @@ title: Ride Route
 
 # Getting There.
 
-![Artist's depiction of a cyclist arriving in Provincetown](../img/arrival.png)
+![Artist's depiction of a cyclist arriving in Provincetown](./img/arrival.png)
 
 ## So, where does the road take us on our way to Provincetown?
 

@@ -5,7 +5,7 @@ title: FAQ
 
 # We all have questions.
 
-![A group of cyclists on touring bikes, gathered in a park in front of a canal. Nearly all of them are facing the camera, but looking back at a rider in the far middle of the shot.](../img/the_questions.JPG)
+![A group of cyclists on touring bikes, gathered in a park in front of a canal. Nearly all of them are facing the camera, but looking back at a rider in the far middle of the shot.](./img/the_questions.jpg)
 
 ## And this is the FAQ.
 

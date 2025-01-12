@@ -1,29 +1,41 @@
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-const markdownIt = require("markdown-it");
-const taskLists = require("markdown-it-tasks")
+const taskLists = require("markdown-it-task-lists")
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setUseGitIgnore(false);
+  eleventyConfig.addWatchTarget("./src/_includes/css/main.css");
+
   let options = {
     html: true
   };
 
-  eleventyConfig.setLibrary("md", markdownIt().use(taskLists));
+  eleventyConfig.amendLibrary("md", markdownIt => markdownIt.use(taskLists, {enabled: true}));
 
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// which file extensions to process
-		extensions: "md",
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    // which file extensions to process
+    extensions: "html",
 
-		formats: ["auto"],
+    formats: ["jpg", "png"],
 
-		widths: ["auto"],
+    widths: ["auto"],
 
-		// optional, attributes assigned on <img> override these values.
-		defaultAttributes: {
-			loading: "lazy",
-			decoding: "async",
-			sizes: "auto",
-		},
-	});
+    // optional, attributes assigned on <img> override these values.
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+      sizes: "auto",
+    },
+  });
+
+  return {
+    dir: {
+      input: 'src',
+      output: 'docs',
+      includes: '_includes',
+      data: '_data'
+    },
+    passthroughFileCopy: true
+  };
 };
 
 

@@ -60,7 +60,7 @@ When you are fed and showered, laying out on a dune in Provincetown, under a daz
 > _“It soared, a bird, it held its flight, a swift pure cry, soar silver orb it leaped serene, speeding, sustained, to come, don&#39;t spin it out too long long breath he breath long life, soaring high, high resplendent, aflame, crowned, high in the effulgence symbolistic, high, of the ethereal bosom, high, of the high vast irradiation everywhere all soaring all around about the all, the endlessnessnessness…”_
 
 ## Avi, First Time Rider \`22
-![Per Avi, "obligatory photo at the P-town \[town line\] sign".](../img/ptown_sign_avi.jpg)
+![Per Avi, "obligatory photo at the P-town \[town line\] sign".](./img/ptown_sign_avi.jpg)
 
 If you haven't met me, you gotta know that I am unfit and uncoordinated as hell. And I still made it (with a ton of help from everyone). If you think you can't do the ride, I'm proof that it's possible, even if you don't have an athletic bone in your body (at the start). If you're thinking about it, here are a few things I wish I had known before last time. It's not too much because the tips on the website were really complete!
 
@@ -88,7 +88,7 @@ Overall, I actually want to do the ride again (I usually hate outdoorsy or physi
 
 
 ## Shannon, First Time Rider \`19
-![Shannon, in cycling gear, posing with her bike by the "Entering Provincetown" sign on Route 6A.](../img/ptown_sign_shannon.jpg)
+![Shannon, in cycling gear, posing with her bike by the "Entering Provincetown" sign on Route 6A.](./img/ptown_sign_shannon.jpg)
 
 _“And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.” - Anaïs Nin_
 

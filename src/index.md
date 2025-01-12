@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Jimmy!
 ---
 
-![Image of two road signs in front of lush foliage. One reads "BIKE ROUTE" and the other "BEACHES"](../img/home_hero.png)
+![Image of two road signs in front of lush foliage. One reads "BIKE ROUTE" and the other "BEACHES"](./img/home_hero.png)
 
 # Hello my guyzerinhos.
 

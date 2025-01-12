@@ -15,6 +15,4 @@ To add a new page:
 - Add a new route to `src/_data/nav.json` if you want it to appear in the nav
 
 ## Wishlist/TODOs
-- [ ] Minify images and use `srcset`s
-- [ ] Make checkboxes work
 - [ ] Ride photo for Zach
