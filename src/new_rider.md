@@ -8,6 +8,9 @@ title: New Riders
 If you're on the fence about doing your first long ride, here's some personal narratives from one-time new riders on how it was to take the plunge. I do not pay these people, and wherever possible, I do not edit their words.
 
 ## Zach, First Time Rider \`24
+
+![Zach, enjoying one of the pars we see on day 1](./img/newrider_zach.jpg)
+
 > _Jimmy: “Can I give you my testimony?”_ <br />
 > _Millie: “You can do anything you want.”_ <br />
 > -Bull Durham, 1988, dir. Ron Shelton
