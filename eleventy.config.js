@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
     // which file extensions to process
     extensions: "html",
 
-    formats: ["jpg", "png"],
+    formats: ["auto"],
 
     widths: [200, 400, 800],
 
@@ -23,7 +23,7 @@ module.exports = function (eleventyConfig) {
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",
-      sizes: "200,400,800",
+      sizes: "auto",
     },
   });
 
