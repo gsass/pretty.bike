@@ -17,13 +17,13 @@ module.exports = function (eleventyConfig) {
 
     formats: ["jpg", "png"],
 
-    widths: ["auto"],
+    widths: [200, 400, 800],
 
     // optional, attributes assigned on <img> override these values.
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",
-      sizes: "auto",
+      sizes: "200,400,800",
     },
   });
 
