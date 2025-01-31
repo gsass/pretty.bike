@@ -9,8 +9,10 @@ title: Jimmy!
 
 Welcome (back?) to the Pretty Ride: Boston to Ptown every June since 2014.
 
+This year: 6/6-6/7, 2025.
+
 IYKYK. If you don't, that's what the [FAQ](/faq/) is for.
 
 -------
 
-_Reg link coming soon._
+[Picteur of a horse](https://docs.google.com/forms/d/e/1FAIpQLScw75IijVe1bIp_Vdt9PaCxljAdATqV628fjm2mbL9nLTJwXA/viewform?usp=header)
