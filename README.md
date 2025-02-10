@@ -15,4 +15,4 @@ To add a new page:
 - Add a new route to `src/_data/nav.json` if you want it to appear in the nav
 
 ## Wishlist/TODOs
-- [ ] Ride photo for Zach
+- [ ] Custom widths for panorama photos. See [docs](https://www.11ty.dev/docs/plugins/image/#html-transform)
