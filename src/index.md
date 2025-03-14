@@ -9,7 +9,7 @@ title: Jimmy!
 
 Welcome (back?) to the Pretty Ride: Boston to Ptown every June since 2014.
 
-This year: 6/6-6/7, 2025.
+This year: 6/7-6/8, 2025.
 
 IYKYK. If you don't, that's what the [FAQ](/faq/) is for.
 
