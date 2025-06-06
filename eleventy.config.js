@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
   };
 
   eleventyConfig.amendLibrary("md", markdownIt => markdownIt.use(taskLists, {enabled: true}));
+  eleventyConfig.addPassthroughCopy({"./src/_includes/maps": "maps"});
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     // which file extensions to process
