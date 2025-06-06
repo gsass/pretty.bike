@@ -41,9 +41,9 @@ If you're wondering "how far is the ride?, or "are there hills?," peek at our GP
 
 Yeah, those were a lot of words, but none of them help you do the ride, huh. During the ride, we're going to navigate off cue sheets (you can also use a GPS but cue sheets don't require batteries). I can't say enough good things about Amy's map planning, nor will I downplay what hard work it is - the cue sheets are super clear, disambiguate weird intersections, note important landmarks such as "the good ice cream shop" and "check out this lake; it's cool", and are just extremely well-done. Thanks Amy!
 
-**Here are the cue sheets for [day 1](./content/maps/Cue%20Sheet%20Day%201.pdf) and [day 2](./content/maps/Cue%20Sheet%20Day%202.pdf).**
+**Here are the cue sheets for [day 1](../maps/Cue%20Sheet%20Day%201.pdf) and [day 2](../maps/Cue%20Sheet%20Day%202.pdf).**
 
-If you're an ultralight packer and don't need cute lil diagrams for how to handle the more "historic" intersections along the way, here's the [short version](./content/maps/SinglePageCueSheet.pdf).
+If you're an ultralight packer and don't need cute lil diagrams for how to handle the more "historic" intersections along the way, here's the [short version](../maps/SinglePageCueSheet.pdf).
 
 ## This cue sheet seems intimidating.
 
