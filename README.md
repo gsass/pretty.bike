@@ -16,3 +16,4 @@ To add a new page:
 
 ## Wishlist/TODOs
 - [ ] Custom widths for panorama photos. See [docs](https://www.11ty.dev/docs/plugins/image/#html-transform)
+- [ ] Cap/s on typeface size/content contianer width so large viewports aren't overwhelming.
